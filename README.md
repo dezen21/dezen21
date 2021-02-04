@@ -85,12 +85,9 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dezen21&show_icons=true&hide_border=true" />
 
-</details>
 
 [youtube]: https://www.youtube.com/watch?v=855SUJICU80
 [instagram]: https://www.instagram.com/dezen21

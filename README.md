@@ -86,7 +86,7 @@
 
 </details>
 
-![github stats](https://github-readme-stats.codestackr.vercel.app/api?username=dezen21&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=dezen21)
 
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=dezen21&layout=compact&theme=white)

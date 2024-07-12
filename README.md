@@ -7,7 +7,7 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 Learning everything :D
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Have a family
+
 
 ### Connect with me:
 
